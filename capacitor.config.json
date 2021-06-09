@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "litehouse_app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
